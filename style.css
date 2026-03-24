@@ -10,6 +10,7 @@ html,body{
     place-items: center;
     height: 100%;
      background: #0069d9; 
+    user-select: none;
 }
 .wrapper{
     height: 100px;
@@ -19,7 +20,6 @@ html,body{
     display: flex;
     padding: 20px 15px;
     align-items: center;
-    user-select: none;
     justify-content: space-evenly;
 
 }.wrapper .option{

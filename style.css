@@ -19,7 +19,7 @@ html,body{
     display: flex;
     padding: 20px 15px;
     align-items: center;
-  
+    user-select: none;
     justify-content: space-evenly;
 
 }.wrapper .option{

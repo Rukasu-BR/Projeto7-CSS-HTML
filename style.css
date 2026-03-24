@@ -10,7 +10,6 @@ html,body{
     place-items: center;
     height: 100%;
      background: #0069d9; 
-    user-select: none;
 }
 .wrapper{
     height: 100px;
